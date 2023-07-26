@@ -9,6 +9,21 @@
 
 }
 
+#selYear {
+	padding: 7px;
+	color: black;
+}
+
+#year {
+	font-family:  Arial, sans-serif;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	font-size: 24px;
+	background-color: #b8bbbc;
+}
+
+
 
 
 

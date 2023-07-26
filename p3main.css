@@ -1,6 +1,7 @@
 .jumbotron {
 	color: #000000;
-	font-family: Arial, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
 	background-image: url("netflix_envelope.png");
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -15,11 +16,10 @@
 }
 
 #year {
-	font-family:  Arial, sans-serif;
+	font-family:  Arial, Helvetica, sans-serif;
 	text-align: center;
 	color: black;
 	font-weight: bold;
-	font-size: 24px;
 	background-color: #b8bbbc;
 }
 
